@@ -1,0 +1,632 @@
+,ID,Constituency,seat_types_yg,Colors,Cluster
+0,E14000554,Berwick-upon-Tweed,con safe,#2CBDFE,0
+1,E14000569,Bishop Auckland,con lab marginal,#661D98,4
+2,E14000574,Blaydon,lab safe,#661D98,4
+3,E14000575,Blyth Valley,con lab marginal,#661D98,4
+4,E14000641,City of Durham,con lab marginal,#F5B14C,2
+5,E14000658,Darlington,con lab marginal,#661D98,4
+6,E14000677,Easington,lab safe,#661D98,4
+7,E14000709,Gateshead,lab safe,#661D98,4
+8,E14000733,Hartlepool,con lab marginal,#661D98,4
+9,E14000746,Hexham,con safe,#2CBDFE,0
+10,E14000754,Houghton and Sunderland South,lab safe,#661D98,4
+11,E14000765,Jarrow,lab safe,#661D98,4
+12,E14000819,Middlesbrough,lab safe,#F5B14C,2
+13,E14000820,Middlesbrough South and East Cleveland,con safe,#661D98,4
+14,E14000831,Newcastle upon Tyne Central,lab safe,#F5B14C,2
+15,E14000832,Newcastle upon Tyne East,lab safe,#F5B14C,2
+16,E14000833,Newcastle upon Tyne North,con lab marginal,#661D98,4
+17,E14000840,North Durham,lab safe,#661D98,4
+18,E14000853,North Tyneside,lab safe,#661D98,4
+19,E14000856,North West Durham,con lab marginal,#661D98,4
+20,E14000891,Redcar,con lab marginal,#661D98,4
+21,E14000915,Sedgefield,con lab marginal,#661D98,4
+22,E14000944,South Shields,lab safe,#661D98,4
+23,E14000970,Stockton North,con lab marginal,#661D98,4
+24,E14000971,Stockton South,con lab marginal,#661D98,4
+25,E14000982,Sunderland Central,lab safe,#661D98,4
+26,E14001006,Tynemouth,con lab marginal,#2CBDFE,0
+27,E14001014,Wansbeck,con lab marginal,#661D98,4
+28,E14001020,Washington and Sunderland West,lab safe,#661D98,4
+29,E14000532,Altrincham and Sale West,con safe,#47DBCD,1
+30,E14000537,Ashton-under-Lyne,con lab marginal,#661D98,4
+31,E14000543,Barrow and Furness,con safe,#661D98,4
+32,E14000559,Birkenhead,lab safe,#661D98,4
+33,E14000570,Blackburn,lab safe,#F5B14C,2
+34,E14000571,Blackley and Broughton,lab safe,#F5B14C,2
+35,E14000572,Blackpool North and Cleveleys,con safe,#661D98,4
+36,E14000573,Blackpool South,con lab marginal,#661D98,4
+37,E14000578,Bolton North East,con lab marginal,#F5B14C,2
+38,E14000579,Bolton South East,lab safe,#F5B14C,2
+39,E14000580,Bolton West,con safe,#661D98,4
+40,E14000581,Bootle,lab safe,#661D98,4
+41,E14000609,Burnley,con lab marginal,#F5B14C,2
+42,E14000611,Bury North,con lab marginal,#661D98,4
+43,E14000612,Bury South,con lab marginal,#661D98,4
+44,E14000620,Carlisle,con safe,#661D98,4
+45,E14000627,Cheadle,con ld marginal,#2CBDFE,0
+46,E14000640,City of Chester,con lab marginal,#661D98,4
+47,E14000646,Congleton,con safe,#2CBDFE,0
+48,E14000647,Copeland,con safe,#661D98,4
+49,E14000653,Crewe and Nantwich,con lab marginal,#661D98,4
+50,E14000661,Denton and Reddish,lab safe,#661D98,4
+51,E14000686,Eddisbury,con safe,#2CBDFE,0
+52,E14000688,Ellesmere Port and Neston,con lab marginal,#661D98,4
+53,E14000706,Fylde,con safe,#2CBDFE,0
+54,E14000708,Garston and Halewood,lab safe,#661D98,4
+55,E14000725,Halton,lab safe,#661D98,4
+56,E14000738,Hazel Grove,con ld marginal,#2CBDFE,0
+57,E14000747,Heywood and Middleton,con lab marginal,#661D98,4
+58,E14000758,Hyndburn,con lab marginal,#F5B14C,2
+59,E14000775,Knowsley,lab safe,#661D98,4
+60,E14000776,Lancaster and Fleetwood,con lab marginal,#F5B14C,2
+61,E14000785,Leigh,con lab marginal,#661D98,4
+62,E14000793,"Liverpool, Riverside",lab safe,#F5B14C,2
+63,E14000794,"Liverpool, Walton",lab safe,#661D98,4
+64,E14000795,"Liverpool, Wavertree",lab safe,#F5B14C,2
+65,E14000796,"Liverpool, West Derby",lab safe,#661D98,4
+66,E14000802,Macclesfield,con safe,#2CBDFE,0
+67,E14000805,Makerfield,con lab marginal,#661D98,4
+68,E14000807,Manchester Central,lab safe,#F5B14C,2
+69,E14000808,"Manchester, Gorton",lab safe,#F5B14C,2
+70,E14000809,"Manchester, Withington",lab safe,#F5B14C,2
+71,E14000825,Morecambe and Lunesdale,con lab marginal,#661D98,4
+72,E14000870,Oldham East and Saddleworth,con lab marginal,#F5B14C,2
+73,E14000871,Oldham West and Royton,lab safe,#F5B14C,2
+74,E14000875,Pendle,con safe,#F5B14C,2
+75,E14000877,Penrith and The Border,con safe,#2CBDFE,0
+76,E14000885,Preston,lab safe,#F5B14C,2
+77,E14000894,Ribble Valley,con safe,#2CBDFE,0
+78,E14000897,Rochdale,lab safe,#F5B14C,2
+79,E14000902,Rossendale and Darwen,con safe,#661D98,4
+80,E14000911,Salford and Eccles,lab safe,#F5B14C,2
+81,E14000916,Sefton Central,lab safe,#2CBDFE,0
+82,E14000943,South Ribble,con safe,#2CBDFE,0
+83,E14000958,Southport,con safe,#2CBDFE,0
+84,E14000962,St Helens North,lab safe,#661D98,4
+85,E14000963,St Helens South and Whiston,lab safe,#661D98,4
+86,E14000967,Stalybridge and Hyde,con lab marginal,#661D98,4
+87,E14000969,Stockport,lab safe,#F5B14C,2
+88,E14000979,Stretford and Urmston,lab safe,#F5B14C,2
+89,E14000987,Tatton,con safe,#2CBDFE,0
+90,E14001010,Wallasey,lab safe,#661D98,4
+91,E14001017,Warrington North,con lab marginal,#661D98,4
+92,E14001018,Warrington South,con lab marginal,#661D98,4
+93,E14001024,Weaver Vale,con lab marginal,#661D98,4
+94,E14001033,West Lancashire,con lab marginal,#661D98,4
+95,E14001037,Westmorland and Lonsdale,con ld marginal,#2CBDFE,0
+96,E14001039,Wigan,con lab marginal,#661D98,4
+97,E14001043,Wirral South,con lab marginal,#2CBDFE,0
+98,E14001044,Wirral West,con lab marginal,#2CBDFE,0
+99,E14001053,Workington,con lab marginal,#661D98,4
+100,E14001054,Worsley and Eccles South,con lab marginal,#661D98,4
+101,E14001057,Wyre and Preston North,con safe,#2CBDFE,0
+102,E14001059,Wythenshawe and Sale East,lab safe,#F5B14C,2
+103,E14000541,Barnsley Central,lab safe,#661D98,4
+104,E14000542,Barnsley East,con lab marginal,#661D98,4
+105,E14000548,Batley and Spen,con lab marginal,#F5B14C,2
+106,E14000556,Beverley and Holderness,con safe,#2CBDFE,0
+107,E14000587,Bradford East,lab safe,#F5B14C,2
+108,E14000588,Bradford South,con lab marginal,#F5B14C,2
+109,E14000589,Bradford West,lab safe,#F5B14C,2
+110,E14000596,Brigg and Goole,con safe,#661D98,4
+111,E14000614,Calder Valley,con lab marginal,#2CBDFE,0
+112,E14000643,Cleethorpes,con safe,#661D98,4
+113,E14000645,Colne Valley,con lab marginal,#2CBDFE,0
+114,E14000666,Dewsbury,con lab marginal,#F5B14C,2
+115,E14000667,Don Valley,con lab marginal,#661D98,4
+116,E14000668,Doncaster Central,con lab marginal,#661D98,4
+117,E14000669,Doncaster North,con lab marginal,#661D98,4
+118,E14000683,East Yorkshire,con safe,#2CBDFE,0
+119,E14000689,Elmet and Rothwell,con safe,#2CBDFE,0
+120,E14000716,Great Grimsby,con lab marginal,#661D98,4
+121,E14000723,Halifax,con lab marginal,#F5B14C,2
+122,E14000724,Haltemprice and Howden,con safe,#2CBDFE,0
+123,E14000730,Harrogate and Knaresborough,con safe,#2CBDFE,0
+124,E14000740,Hemsworth,con lab marginal,#661D98,4
+125,E14000756,Huddersfield,con lab marginal,#F5B14C,2
+126,E14000766,Keighley,con lab marginal,#F5B14C,2
+127,E14000771,Kingston upon Hull East,con lab marginal,#661D98,4
+128,E14000772,Kingston upon Hull North,lab safe,#F5B14C,2
+129,E14000773,Kingston upon Hull West and Hessle,con lab marginal,#F5B14C,2
+130,E14000777,Leeds Central,lab safe,#F5B14C,2
+131,E14000778,Leeds East,lab safe,#F5B14C,2
+132,E14000779,Leeds North East,lab safe,#F5B14C,2
+133,E14000780,Leeds North West,lab safe,#F5B14C,2
+134,E14000781,Leeds West,lab safe,#F5B14C,2
+135,E14000826,Morley and Outwood,con safe,#661D98,4
+136,E14000836,"Normanton, Pontefract and Castleford",con lab marginal,#661D98,4
+137,E14000876,Penistone and Stocksbridge,con lab marginal,#661D98,4
+138,E14000886,Pudsey,con lab marginal,#2CBDFE,0
+139,E14000895,Richmond (Yorks),con safe,#2CBDFE,0
+140,E14000903,Rother Valley,con lab marginal,#661D98,4
+141,E14000904,Rotherham,con lab marginal,#661D98,4
+142,E14000913,Scarborough and Whitby,con safe,#2CBDFE,0
+143,E14000914,Scunthorpe,con lab marginal,#661D98,4
+144,E14000917,Selby and Ainsty,con safe,#2CBDFE,0
+145,E14000919,Sheffield Central,lab safe,#F5B14C,2
+146,E14000920,Sheffield South East,con lab marginal,#661D98,4
+147,E14000921,"Sheffield, Brightside and Hillsborough",lab safe,#F5B14C,2
+148,E14000922,"Sheffield, Hallam",lab ld marginal,#47DBCD,1
+149,E14000923,"Sheffield, Heeley",lab safe,#661D98,4
+150,E14000925,Shipley,con lab marginal,#2CBDFE,0
+151,E14000928,Skipton and Ripon,con safe,#2CBDFE,0
+152,E14000993,Thirsk and Malton,con safe,#2CBDFE,0
+153,E14001009,Wakefield,con lab marginal,#661D98,4
+154,E14001028,Wentworth and Dearne,con lab marginal,#661D98,4
+155,E14001061,York Central,lab safe,#F5B14C,2
+156,E14001062,York Outer,con safe,#2CBDFE,0
+157,E14000533,Amber Valley,con safe,#661D98,4
+158,E14000535,Ashfield,con lab marginal,#661D98,4
+159,E14000546,Bassetlaw,con lab marginal,#661D98,4
+160,E14000577,Bolsover,con lab marginal,#661D98,4
+161,E14000582,Boston and Skegness,con safe,#2CBDFE,0
+162,E14000583,Bosworth,con safe,#661D98,4
+163,E14000607,Broxtowe,con lab marginal,#2CBDFE,0
+164,E14000625,Charnwood,con safe,#2CBDFE,0
+165,E14000632,Chesterfield,con lab marginal,#661D98,4
+166,E14000648,Corby,con safe,#661D98,4
+167,E14000660,Daventry,con safe,#2CBDFE,0
+168,E14000662,Derby North,con lab marginal,#F5B14C,2
+169,E14000663,Derby South,con lab marginal,#F5B14C,2
+170,E14000664,Derbyshire Dales,con safe,#2CBDFE,0
+171,E14000695,Erewash,con safe,#661D98,4
+172,E14000707,Gainsborough,con safe,#2CBDFE,0
+173,E14000710,Gedling,con lab marginal,#661D98,4
+174,E14000714,Grantham and Stamford,con safe,#2CBDFE,0
+175,E14000728,Harborough,con safe,#2CBDFE,0
+176,E14000748,High Peak,con lab marginal,#2CBDFE,0
+177,E14000769,Kettering,con safe,#661D98,4
+178,E14000782,Leicester East,lab safe,#016794,5
+179,E14000783,Leicester South,lab safe,#F5B14C,2
+180,E14000784,Leicester West,lab safe,#F5B14C,2
+181,E14000792,Lincoln,con lab marginal,#F5B14C,2
+182,E14000797,Loughborough,con lab marginal,#F5B14C,2
+183,E14000798,Louth and Horncastle,con safe,#2CBDFE,0
+184,E14000810,Mansfield,con safe,#661D98,4
+185,E14000814,Mid Derbyshire,con safe,#2CBDFE,0
+186,E14000829,Newark,con safe,#2CBDFE,0
+187,E14000843,North East Derbyshire,con safe,#661D98,4
+188,E14000858,North West Leicestershire,con safe,#661D98,4
+189,E14000861,Northampton North,con lab marginal,#F5B14C,2
+190,E14000862,Northampton South,con safe,#47DBCD,1
+191,E14000865,Nottingham East,lab safe,#F5B14C,2
+192,E14000866,Nottingham North,lab safe,#F5B14C,2
+193,E14000867,Nottingham South,lab safe,#F5B14C,2
+194,E14000908,Rushcliffe,con safe,#2CBDFE,0
+195,E14000909,Rutland and Melton,con safe,#2CBDFE,0
+196,E14000924,Sherwood,con safe,#661D98,4
+197,E14000929,Sleaford and North Hykeham,con safe,#2CBDFE,0
+198,E14000935,South Derbyshire,con safe,#661D98,4
+199,E14000939,South Holland and The Deepings,con safe,#2CBDFE,0
+200,E14000940,South Leicestershire,con safe,#661D98,4
+201,E14000942,South Northamptonshire,con safe,#2CBDFE,0
+202,E14001025,Wellingborough,con safe,#47DBCD,1
+203,E14000531,Aldridge-Brownhills,con safe,#661D98,4
+204,E14000560,"Birmingham, Edgbaston",con lab marginal,#F5B14C,2
+205,E14000561,"Birmingham, Erdington",con lab marginal,#F5B14C,2
+206,E14000562,"Birmingham, Hall Green",lab safe,#F5B14C,2
+207,E14000563,"Birmingham, Hodge Hill",lab safe,#F5B14C,2
+208,E14000564,"Birmingham, Ladywood",lab safe,#F5B14C,2
+209,E14000565,"Birmingham, Northfield",con lab marginal,#661D98,4
+210,E14000566,"Birmingham, Perry Barr",lab safe,#F5B14C,2
+211,E14000567,"Birmingham, Selly Oak",lab safe,#F5B14C,2
+212,E14000568,"Birmingham, Yardley",lab safe,#F5B14C,2
+213,E14000605,Bromsgrove,con safe,#2CBDFE,0
+214,E14000610,Burton,con safe,#661D98,4
+215,E14000618,Cannock Chase,con safe,#661D98,4
+216,E14000649,Coventry North East,lab safe,#F5B14C,2
+217,E14000650,Coventry North West,con lab marginal,#F5B14C,2
+218,E14000651,Coventry South,con lab marginal,#F5B14C,2
+219,E14000671,Dudley North,con lab marginal,#661D98,4
+220,E14000672,Dudley South,con safe,#661D98,4
+221,E14000722,Halesowen and Rowley Regis,con safe,#661D98,4
+222,E14000743,Hereford and South Herefordshire,con safe,#2CBDFE,0
+223,E14000767,Kenilworth and Southam,con safe,#2CBDFE,0
+224,E14000791,Lichfield,con safe,#2CBDFE,0
+225,E14000799,Ludlow,con safe,#2CBDFE,0
+226,E14000812,Meriden,con safe,#661D98,4
+227,E14000818,Mid Worcestershire,con safe,#2CBDFE,0
+228,E14000834,Newcastle-under-Lyme,con lab marginal,#661D98,4
+229,E14000847,North Herefordshire,con safe,#2CBDFE,0
+230,E14000849,North Shropshire,con safe,#2CBDFE,0
+231,E14000854,North Warwickshire,con safe,#661D98,4
+232,E14000868,Nuneaton,con safe,#661D98,4
+233,E14000892,Redditch,con safe,#661D98,4
+234,E14000905,Rugby,con safe,#661D98,4
+235,E14000926,Shrewsbury and Atcham,con safe,#2CBDFE,0
+236,E14000931,Solihull,con safe,#2CBDFE,0
+237,E14000945,South Staffordshire,con safe,#2CBDFE,0
+238,E14000965,Stafford,con safe,#2CBDFE,0
+239,E14000966,Staffordshire Moorlands,con safe,#2CBDFE,0
+240,E14000972,Stoke-on-Trent Central,con lab marginal,#F5B14C,2
+241,E14000973,Stoke-on-Trent North,con lab marginal,#661D98,4
+242,E14000974,Stoke-on-Trent South,con safe,#661D98,4
+243,E14000975,Stone,con safe,#2CBDFE,0
+244,E14000976,Stourbridge,con safe,#661D98,4
+245,E14000977,Stratford-on-Avon,con safe,#2CBDFE,0
+246,E14000985,Sutton Coldfield,con safe,#2CBDFE,0
+247,E14000986,Tamworth,con safe,#661D98,4
+248,E14000989,Telford,con safe,#661D98,4
+249,E14000992,The Wrekin,con safe,#2CBDFE,0
+250,E14001011,Walsall North,con safe,#F5B14C,2
+251,E14001012,Walsall South,con lab marginal,#F5B14C,2
+252,E14001016,Warley,lab safe,#F5B14C,2
+253,E14001019,Warwick and Leamington,con lab marginal,#F5B14C,2
+254,E14001029,West Bromwich East,con lab marginal,#F5B14C,2
+255,E14001030,West Bromwich West,con lab marginal,#F5B14C,2
+256,E14001035,West Worcestershire,con safe,#2CBDFE,0
+257,E14001049,Wolverhampton North East,con lab marginal,#F5B14C,2
+258,E14001050,Wolverhampton South East,con lab marginal,#F5B14C,2
+259,E14001051,Wolverhampton South West,con lab marginal,#F5B14C,2
+260,E14001052,Worcester,con safe,#661D98,4
+261,E14001058,Wyre Forest,con safe,#661D98,4
+262,E14000544,Basildon and Billericay,con safe,#47DBCD,1
+263,E14000552,Bedford,con lab marginal,#F5B14C,2
+264,E14000590,Braintree,con safe,#2CBDFE,0
+265,E14000594,Brentwood and Ongar,con safe,#47DBCD,1
+266,E14000603,Broadland,con safe,#2CBDFE,0
+267,E14000606,Broxbourne,con safe,#47DBCD,1
+268,E14000613,Bury St Edmunds,con safe,#2CBDFE,0
+269,E14000617,Cambridge,lab safe,#F5B14C,2
+270,E14000622,Castle Point,con safe,#2CBDFE,0
+271,E14000624,Central Suffolk and North Ipswich,con safe,#2CBDFE,0
+272,E14000628,Chelmsford,con safe,#47DBCD,1
+273,E14000642,Clacton,con safe,#2CBDFE,0
+274,E14000644,Colchester,con safe,#47DBCD,1
+275,E14000693,Epping Forest,con safe,#47DBCD,1
+276,E14000717,Great Yarmouth,con safe,#2CBDFE,0
+277,E14000729,Harlow,con safe,#47DBCD,1
+278,E14000734,Harwich and North Essex,con safe,#2CBDFE,0
+279,E14000739,Hemel Hempstead,con safe,#47DBCD,1
+280,E14000744,Hertford and Stortford,con safe,#47DBCD,1
+281,E14000745,Hertsmere,con safe,#47DBCD,1
+282,E14000749,Hitchin and Harpenden,con safe,#47DBCD,1
+283,E14000757,Huntingdon,con safe,#2CBDFE,0
+284,E14000761,Ipswich,con lab marginal,#F5B14C,2
+285,E14000800,Luton North,con lab marginal,#016794,5
+286,E14000801,Luton South,lab safe,#016794,5
+287,E14000806,Maldon,con safe,#2CBDFE,0
+288,E14000813,Mid Bedfordshire,con safe,#2CBDFE,0
+289,E14000816,Mid Norfolk,con safe,#2CBDFE,0
+290,E14000841,North East Bedfordshire,con safe,#2CBDFE,0
+291,E14000842,North East Cambridgeshire,con safe,#2CBDFE,0
+292,E14000845,North East Hertfordshire,con safe,#47DBCD,1
+293,E14000848,North Norfolk,con ld marginal,#2CBDFE,0
+294,E14000855,North West Cambridgeshire,con safe,#2CBDFE,0
+295,E14000859,North West Norfolk,con safe,#2CBDFE,0
+296,E14000863,Norwich North,con lab marginal,#661D98,4
+297,E14000864,Norwich South,lab safe,#F5B14C,2
+298,E14000878,Peterborough,con lab marginal,#47DBCD,1
+299,E14000888,Rayleigh and Wickford,con safe,#2CBDFE,0
+300,E14000899,Rochford and Southend East,con safe,#47DBCD,1
+301,E14000910,Saffron Walden,con safe,#47DBCD,1
+302,E14000933,South Basildon and East Thurrock,con safe,#47DBCD,1
+303,E14000934,South Cambridgeshire,con ld marginal,#47DBCD,1
+304,E14000937,South East Cambridgeshire,con safe,#47DBCD,1
+305,E14000941,South Norfolk,con safe,#2CBDFE,0
+306,E14000946,South Suffolk,con safe,#2CBDFE,0
+307,E14000949,South West Bedfordshire,con safe,#47DBCD,1
+308,E14000951,South West Hertfordshire,con safe,#47DBCD,1
+309,E14000952,South West Norfolk,con safe,#2CBDFE,0
+310,E14000957,Southend West,con safe,#47DBCD,1
+311,E14000960,St Albans,con ld marginal,#47DBCD,1
+312,E14000968,Stevenage,con safe,#47DBCD,1
+313,E14000981,Suffolk Coastal,con safe,#2CBDFE,0
+314,E14000995,Thurrock,con safe,#47DBCD,1
+315,E14001021,Watford,con safe,#47DBCD,1
+316,E14001022,Waveney,con safe,#2CBDFE,0
+317,E14001027,Welwyn Hatfield,con safe,#47DBCD,1
+318,E14001034,West Suffolk,con safe,#2CBDFE,0
+319,E14001045,Witham,con safe,#2CBDFE,0
+320,E14000540,Barking,lab safe,#016794,5
+321,E14000549,Battersea,con lab marginal,#016794,5
+322,E14000551,Beckenham,con safe,#47DBCD,1
+323,E14000553,Bermondsey and Old Southwark,lab safe,#016794,5
+324,E14000555,Bethnal Green and Bow,lab safe,#016794,5
+325,E14000558,Bexleyheath and Crayford,con safe,#47DBCD,1
+326,E14000591,Brent Central,lab safe,#016794,5
+327,E14000592,Brent North,lab safe,#016794,5
+328,E14000593,Brentford and Isleworth,con lab marginal,#016794,5
+329,E14000604,Bromley and Chislehurst,con safe,#47DBCD,1
+330,E14000615,Camberwell and Peckham,lab safe,#016794,5
+331,E14000621,Carshalton and Wallington,con ld marginal,#47DBCD,1
+332,E14000629,Chelsea and Fulham,con ld marginal,#016794,5
+333,E14000634,Chingford and Woodford Green,con lab marginal,#47DBCD,1
+334,E14000636,Chipping Barnet,con lab marginal,#47DBCD,1
+335,E14000639,Cities of London and Westminster,con lab marginal,#016794,5
+336,E14000654,Croydon Central,con lab marginal,#016794,5
+337,E14000655,Croydon North,lab safe,#016794,5
+338,E14000656,Croydon South,con safe,#47DBCD,1
+339,E14000657,Dagenham and Rainham,con lab marginal,#47DBCD,1
+340,E14000673,Dulwich and West Norwood,lab safe,#016794,5
+341,E14000674,Ealing Central and Acton,lab safe,#016794,5
+342,E14000675,Ealing North,lab safe,#016794,5
+343,E14000676,"Ealing, Southall",lab safe,#016794,5
+344,E14000679,East Ham,lab safe,#016794,5
+345,E14000687,Edmonton,lab safe,#016794,5
+346,E14000690,Eltham,con lab marginal,#47DBCD,1
+347,E14000691,Enfield North,con lab marginal,#016794,5
+348,E14000692,"Enfield, Southgate",con lab marginal,#47DBCD,1
+349,E14000696,Erith and Thamesmead,con lab marginal,#016794,5
+350,E14000701,Feltham and Heston,lab safe,#016794,5
+351,E14000703,Finchley and Golders Green,con safe,#016794,5
+352,E14000718,Greenwich and Woolwich,lab safe,#016794,5
+353,E14000720,Hackney North and Stoke Newington,lab safe,#016794,5
+354,E14000721,Hackney South and Shoreditch,lab safe,#016794,5
+355,E14000726,Hammersmith,lab safe,#016794,5
+356,E14000727,Hampstead and Kilburn,lab safe,#016794,5
+357,E14000731,Harrow East,con lab marginal,#016794,5
+358,E14000732,Harrow West,lab safe,#016794,5
+359,E14000737,Hayes and Harlington,lab safe,#016794,5
+360,E14000741,Hendon,con lab marginal,#016794,5
+361,E14000750,Holborn and St Pancras,lab safe,#016794,5
+362,E14000751,Hornchurch and Upminster,con safe,#47DBCD,1
+363,E14000752,Hornsey and Wood Green,lab safe,#016794,5
+364,E14000759,Ilford North,con lab marginal,#016794,5
+365,E14000760,Ilford South,lab safe,#016794,5
+366,E14000763,Islington North,lab safe,#016794,5
+367,E14000764,Islington South and Finsbury,lab safe,#016794,5
+368,E14000768,Kensington,con ld marginal,#016794,5
+369,E14000770,Kingston and Surbiton,ld safe,#47DBCD,1
+370,E14000787,Lewisham East,lab safe,#016794,5
+371,E14000788,Lewisham West and Penge,lab safe,#016794,5
+372,E14000789,"Lewisham, Deptford",lab safe,#016794,5
+373,E14000790,Leyton and Wanstead,lab safe,#016794,5
+374,E14000823,Mitcham and Morden,lab safe,#016794,5
+375,E14000869,Old Bexley and Sidcup,con safe,#47DBCD,1
+376,E14000872,Orpington,con safe,#47DBCD,1
+377,E14000882,Poplar and Limehouse,lab safe,#016794,5
+378,E14000887,Putney,con lab marginal,#016794,5
+379,E14000896,Richmond Park,con ld marginal,#47DBCD,1
+380,E14000900,Romford,con safe,#47DBCD,1
+381,E14000906,"Ruislip, Northwood and Pinner",con safe,#47DBCD,1
+382,E14000978,Streatham,lab safe,#016794,5
+383,E14000984,Sutton and Cheam,con safe,#47DBCD,1
+384,E14000998,Tooting,lab safe,#016794,5
+385,E14001002,Tottenham,lab safe,#016794,5
+386,E14001005,Twickenham,ld safe,#47DBCD,1
+387,E14001007,Uxbridge and South Ruislip,con lab marginal,#47DBCD,1
+388,E14001008,Vauxhall,lab safe,#016794,5
+389,E14001013,Walthamstow,lab safe,#016794,5
+390,E14001032,West Ham,lab safe,#016794,5
+391,E14001036,Westminster North,lab safe,#016794,5
+392,E14001040,Wimbledon,con ld marginal,#016794,5
+393,E14000530,Aldershot,con safe,#47DBCD,1
+394,E14000534,Arundel and South Downs,con safe,#2CBDFE,0
+395,E14000536,Ashford,con safe,#2CBDFE,0
+396,E14000538,Aylesbury,con safe,#47DBCD,1
+397,E14000539,Banbury,con safe,#2CBDFE,0
+398,E14000545,Basingstoke,con safe,#47DBCD,1
+399,E14000550,Beaconsfield,con safe,#47DBCD,1
+400,E14000557,Bexhill and Battle,con safe,#2CBDFE,0
+401,E14000576,Bognor Regis and Littlehampton,con safe,#2CBDFE,0
+402,E14000586,Bracknell,con safe,#47DBCD,1
+403,E14000597,"Brighton, Kemptown",lab safe,#F5B14C,2
+404,E14000598,"Brighton, Pavilion",green safe,#F5B14C,2
+405,E14000608,Buckingham,con safe,#47DBCD,1
+406,E14000619,Canterbury,con lab marginal,#F5B14C,2
+407,E14000626,Chatham and Aylesford,con safe,#47DBCD,1
+408,E14000631,Chesham and Amersham,con safe,#47DBCD,1
+409,E14000633,Chichester,con safe,#2CBDFE,0
+410,E14000652,Crawley,con lab marginal,#47DBCD,1
+411,E14000659,Dartford,con safe,#47DBCD,1
+412,E14000670,Dover,con safe,#2CBDFE,0
+413,E14000680,East Hampshire,con safe,#2CBDFE,0
+414,E14000681,East Surrey,con safe,#47DBCD,1
+415,E14000682,East Worthing and Shoreham,con safe,#47DBCD,1
+416,E14000684,Eastbourne,con ld marginal,#2CBDFE,0
+417,E14000685,Eastleigh,con safe,#47DBCD,1
+418,E14000694,Epsom and Ewell,con safe,#47DBCD,1
+419,E14000697,Esher and Walton,con ld marginal,#47DBCD,1
+420,E14000699,Fareham,con safe,#2CBDFE,0
+421,E14000700,Faversham and Mid Kent,con safe,#2CBDFE,0
+422,E14000704,Folkestone and Hythe,con safe,#2CBDFE,0
+423,E14000711,Gillingham and Rainham,con safe,#47DBCD,1
+424,E14000713,Gosport,con safe,#2CBDFE,0
+425,E14000715,Gravesham,con safe,#47DBCD,1
+426,E14000719,Guildford,con ld marginal,#47DBCD,1
+427,E14000735,Hastings and Rye,con lab marginal,#2CBDFE,0
+428,E14000736,Havant,con safe,#661D98,4
+429,E14000742,Henley,con safe,#47DBCD,1
+430,E14000753,Horsham,con safe,#47DBCD,1
+431,E14000755,Hove,lab safe,#F5B14C,2
+432,E14000762,Isle of Wight,con safe,#2CBDFE,0
+433,E14000786,Lewes,con ld marginal,#2CBDFE,0
+434,E14000803,Maidenhead,con safe,#47DBCD,1
+435,E14000804,Maidstone and The Weald,con safe,#2CBDFE,0
+436,E14000811,Meon Valley,con safe,#2CBDFE,0
+437,E14000817,Mid Sussex,con safe,#47DBCD,1
+438,E14000821,Milton Keynes North,con lab marginal,#47DBCD,1
+439,E14000822,Milton Keynes South,con lab marginal,#47DBCD,1
+440,E14000824,Mole Valley,con safe,#47DBCD,1
+441,E14000827,New Forest East,con safe,#2CBDFE,0
+442,E14000828,New Forest West,con safe,#2CBDFE,0
+443,E14000830,Newbury,con safe,#47DBCD,1
+444,E14000844,North East Hampshire,con safe,#47DBCD,1
+445,E14000852,North Thanet,con safe,#2CBDFE,0
+446,E14000857,North West Hampshire,con safe,#2CBDFE,0
+447,E14000873,Oxford East,lab safe,#F5B14C,2
+448,E14000874,Oxford West and Abingdon,ld safe,#47DBCD,1
+449,E14000883,Portsmouth North,con safe,#47DBCD,1
+450,E14000884,Portsmouth South,con lab marginal,#F5B14C,2
+451,E14000889,Reading East,con lab marginal,#F5B14C,2
+452,E14000890,Reading West,con lab marginal,#47DBCD,1
+453,E14000893,Reigate,con safe,#47DBCD,1
+454,E14000898,Rochester and Strood,con safe,#47DBCD,1
+455,E14000901,Romsey and Southampton North,con safe,#47DBCD,1
+456,E14000907,Runnymede and Weybridge,con safe,#47DBCD,1
+457,E14000918,Sevenoaks,con safe,#47DBCD,1
+458,E14000927,Sittingbourne and Sheppey,con safe,#47DBCD,1
+459,E14000930,Slough,lab safe,#016794,5
+460,E14000948,South Thanet,con safe,#2CBDFE,0
+461,E14000953,South West Surrey,con safe,#47DBCD,1
+462,E14000955,"Southampton, Itchen",con lab marginal,#F5B14C,2
+463,E14000956,"Southampton, Test",lab safe,#F5B14C,2
+464,E14000959,Spelthorne,con safe,#47DBCD,1
+465,E14000983,Surrey Heath,con safe,#47DBCD,1
+466,E14000997,Tonbridge and Malling,con safe,#47DBCD,1
+467,E14001004,Tunbridge Wells,con safe,#47DBCD,1
+468,E14001015,Wantage,con safe,#47DBCD,1
+469,E14001023,Wealden,con safe,#2CBDFE,0
+470,E14001041,Winchester,con ld marginal,#47DBCD,1
+471,E14001042,Windsor,con safe,#47DBCD,1
+472,E14001046,Witney,con safe,#2CBDFE,0
+473,E14001047,Woking,con safe,#47DBCD,1
+474,E14001048,Wokingham,con ld marginal,#47DBCD,1
+475,E14001055,Worthing West,con safe,#47DBCD,1
+476,E14001056,Wycombe,con lab marginal,#47DBCD,1
+477,E14000547,Bath,ld safe,#F5B14C,2
+478,E14000584,Bournemouth East,con safe,#F5B14C,2
+479,E14000585,Bournemouth West,con safe,#F5B14C,2
+480,E14000595,Bridgwater and West Somerset,con safe,#2CBDFE,0
+481,E14000599,Bristol East,lab safe,#F5B14C,2
+482,E14000600,Bristol North West,con lab marginal,#F5B14C,2
+483,E14000601,Bristol South,lab safe,#F5B14C,2
+484,E14000602,Bristol West,lab safe,#F5B14C,2
+485,E14000616,Camborne and Redruth,con lab marginal,#2CBDFE,0
+486,E14000623,Central Devon,con safe,#2CBDFE,0
+487,E14000630,Cheltenham,con ld marginal,#47DBCD,1
+488,E14000635,Chippenham,con safe,#2CBDFE,0
+489,E14000638,Christchurch,con safe,#2CBDFE,0
+490,E14000665,Devizes,con safe,#2CBDFE,0
+491,E14000678,East Devon,con safe,#2CBDFE,0
+492,E14000698,Exeter,lab safe,#F5B14C,2
+493,E14000702,Filton and Bradley Stoke,con lab marginal,#47DBCD,1
+494,E14000705,Forest of Dean,con safe,#2CBDFE,0
+495,E14000712,Gloucester,con safe,#47DBCD,1
+496,E14000774,Kingswood,con safe,#47DBCD,1
+497,E14000815,Mid Dorset and North Poole,con safe,#2CBDFE,0
+498,E14000835,Newton Abbot,con safe,#2CBDFE,0
+499,E14000837,North Cornwall,con safe,#2CBDFE,0
+500,E14000838,North Devon,con safe,#2CBDFE,0
+501,E14000839,North Dorset,con safe,#2CBDFE,0
+502,E14000846,North East Somerset,con safe,#2CBDFE,0
+503,E14000850,North Somerset,con safe,#2CBDFE,0
+504,E14000851,North Swindon,con safe,#47DBCD,1
+505,E14000860,North Wiltshire,con safe,#2CBDFE,0
+506,E14000879,"Plymouth, Moor View",con safe,#661D98,4
+507,E14000880,"Plymouth, Sutton and Devonport",con lab marginal,#F5B14C,2
+508,E14000881,Poole,con safe,#47DBCD,1
+509,E14000912,Salisbury,con safe,#2CBDFE,0
+510,E14000932,Somerton and Frome,con safe,#2CBDFE,0
+511,E14000936,South Dorset,con safe,#2CBDFE,0
+512,E14000938,South East Cornwall,con safe,#2CBDFE,0
+513,E14000947,South Swindon,con lab marginal,#47DBCD,1
+514,E14000950,South West Devon,con safe,#2CBDFE,0
+515,E14000954,South West Wiltshire,con safe,#2CBDFE,0
+516,E14000961,St Austell and Newquay,con safe,#2CBDFE,0
+517,E14000964,St Ives,con ld marginal,#2CBDFE,0
+518,E14000980,Stroud,con lab marginal,#2CBDFE,0
+519,E14000988,Taunton Deane,con safe,#2CBDFE,0
+520,E14000990,Tewkesbury,con safe,#2CBDFE,0
+521,E14000991,The Cotswolds,con safe,#2CBDFE,0
+522,E14000994,Thornbury and Yate,con ld marginal,#2CBDFE,0
+523,E14000996,Tiverton and Honiton,con safe,#2CBDFE,0
+524,E14000999,Torbay,con safe,#2CBDFE,0
+525,E14001000,Torridge and West Devon,con safe,#2CBDFE,0
+526,E14001001,Totnes,con safe,#2CBDFE,0
+527,E14001003,Truro and Falmouth,con lab marginal,#2CBDFE,0
+528,E14001026,Wells,con ld marginal,#2CBDFE,0
+529,E14001031,West Dorset,con safe,#2CBDFE,0
+530,E14001038,Weston-Super-Mare,con safe,#2CBDFE,0
+531,E14001060,Yeovil,con safe,#2CBDFE,0
+532,S14000001,Aberdeen North,snp safe,#F3A0F2,3
+533,S14000002,Aberdeen South,con snp marginal,#F3A0F2,3
+534,S14000003,Airdrie and Shotts,lab snp marginal,#F3A0F2,3
+535,S14000004,Angus,con snp marginal,#F3A0F2,3
+536,S14000005,Argyll and Bute,con snp marginal,#F3A0F2,3
+537,S14000006,"Ayr, Carrick and Cumnock",con snp marginal,#F3A0F2,3
+538,S14000007,Banff and Buchan,con snp marginal,#F3A0F2,3
+539,S14000008,"Berwickshire, Roxburgh and Selkirk",con snp marginal,#F3A0F2,3
+540,S14000009,"Caithness, Sutherland and Easter Ross",ld snp marginal,#F3A0F2,3
+541,S14000010,Central Ayrshire,con snp marginal,#F3A0F2,3
+542,S14000011,"Coatbridge, Chryston and Bellshill",lab snp marginal,#F3A0F2,3
+543,S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",snp safe,#F3A0F2,3
+544,S14000013,Dumfries and Galloway,con snp marginal,#F3A0F2,3
+545,S14000014,"Dumfriesshire, Clydesdale and Tweeddale",con snp marginal,#F3A0F2,3
+546,S14000015,Dundee East,snp safe,#F3A0F2,3
+547,S14000016,Dundee West,snp safe,#F3A0F2,3
+548,S14000017,Dunfermline and West Fife,con snp marginal,#F3A0F2,3
+549,S14000018,East Dunbartonshire,ld snp marginal,#2CBDFE,0
+550,S14000019,"East Kilbride, Strathaven and Lesmahagow",snp safe,#F3A0F2,3
+551,S14000020,East Lothian,lab snp marginal,#F3A0F2,3
+552,S14000021,East Renfrewshire,con snp marginal,#2CBDFE,0
+553,S14000022,Edinburgh East,snp safe,#F5B14C,2
+554,S14000023,Edinburgh North and Leith,snp safe,#F5B14C,2
+555,S14000024,Edinburgh South,lab safe,#F5B14C,2
+556,S14000025,Edinburgh South West,snp safe,#F5B14C,2
+557,S14000026,Edinburgh West,ld snp marginal,#2CBDFE,0
+558,S14000027,Na h-Eileanan An Iar,snp safe,#F3A0F2,3
+559,S14000028,Falkirk,snp safe,#F3A0F2,3
+560,S14000029,Glasgow Central,snp safe,#F5B14C,2
+561,S14000030,Glasgow East,lab snp marginal,#F3A0F2,3
+562,S14000031,Glasgow North,snp safe,#F5B14C,2
+563,S14000032,Glasgow North East,lab snp marginal,#F3A0F2,3
+564,S14000033,Glasgow North West,snp safe,#F3A0F2,3
+565,S14000034,Glasgow South,snp safe,#F3A0F2,3
+566,S14000035,Glasgow South West,snp safe,#F3A0F2,3
+567,S14000036,Glenrothes,snp safe,#F3A0F2,3
+568,S14000037,Gordon,con snp marginal,#F3A0F2,3
+569,S14000038,Inverclyde,snp safe,#F3A0F2,3
+570,S14000039,"Inverness, Nairn, Badenoch and Strathspey",snp safe,#F3A0F2,3
+571,S14000040,Kilmarnock and Loudoun,snp safe,#F3A0F2,3
+572,S14000041,Kirkcaldy and Cowdenbeath,lab snp marginal,#F3A0F2,3
+573,S14000042,Lanark and Hamilton East,con snp marginal,#F3A0F2,3
+574,S14000043,Linlithgow and East Falkirk,con snp marginal,#F3A0F2,3
+575,S14000044,Livingston,snp safe,#F3A0F2,3
+576,S14000045,Midlothian,lab snp marginal,#F3A0F2,3
+577,S14000046,Moray,con snp marginal,#F3A0F2,3
+578,S14000047,Motherwell and Wishaw,lab snp marginal,#F3A0F2,3
+579,S14000048,North Ayrshire and Arran,con snp marginal,#F3A0F2,3
+580,S14000049,North East Fife,ld snp marginal,#2CBDFE,0
+581,S14000050,Ochil and South Perthshire,con snp marginal,#F3A0F2,3
+582,S14000051,Orkney and Shetland,ld snp marginal,#F3A0F2,3
+583,S14000052,Paisley and Renfrewshire North,snp safe,#F3A0F2,3
+584,S14000053,Paisley and Renfrewshire South,snp safe,#F3A0F2,3
+585,S14000054,Perth and North Perthshire,con snp marginal,#F3A0F2,3
+586,S14000055,"Ross, Skye and Lochaber",snp safe,#F3A0F2,3
+587,S14000056,Rutherglen and Hamilton West,lab snp marginal,#F3A0F2,3
+588,S14000057,Stirling,con snp marginal,#F3A0F2,3
+589,S14000058,West Aberdeenshire and Kincardine,con snp marginal,#F3A0F2,3
+590,S14000059,West Dunbartonshire,lab snp marginal,#F3A0F2,3
+591,W07000041,Ynys Mon,con lab marginal,#2CBDFE,0
+592,W07000042,Delyn,con lab marginal,#661D98,4
+593,W07000043,Alyn and Deeside,con lab marginal,#661D98,4
+594,W07000044,Wrexham,con lab marginal,#661D98,4
+595,W07000045,Llanelli,lab safe,#661D98,4
+596,W07000046,Gower,con lab marginal,#2CBDFE,0
+597,W07000047,Swansea West,lab safe,#F5B14C,2
+598,W07000048,Swansea East,lab safe,#661D98,4
+599,W07000049,Aberavon,lab safe,#661D98,4
+600,W07000050,Cardiff Central,lab safe,#F5B14C,2
+601,W07000051,Cardiff North,con lab marginal,#2CBDFE,0
+602,W07000052,Rhondda,lab safe,#661D98,4
+603,W07000053,Torfaen,con lab marginal,#661D98,4
+604,W07000054,Monmouth,con safe,#2CBDFE,0
+605,W07000055,Newport East,con lab marginal,#661D98,4
+606,W07000056,Newport West,con lab marginal,#661D98,4
+607,W07000057,Arfon,pc safe,#F5B14C,2
+608,W07000058,Aberconwy,con lab marginal,#2CBDFE,0
+609,W07000059,Clwyd West,con safe,#2CBDFE,0
+610,W07000060,Vale of Clwyd,con lab marginal,#2CBDFE,0
+611,W07000061,Dwyfor Meirionnydd,pc safe,#2CBDFE,0
+612,W07000062,Clwyd South,con lab marginal,#661D98,4
+613,W07000063,Montgomeryshire,con safe,#2CBDFE,0
+614,W07000064,Ceredigion,ld pc marginal,#2CBDFE,0
+615,W07000065,Preseli Pembrokeshire,con lab marginal,#2CBDFE,0
+616,W07000066,Carmarthen West and Pembrokeshire South,con lab marginal,#2CBDFE,0
+617,W07000067,Carmarthen East and Dinefwr,con pc marginal,#2CBDFE,0
+618,W07000068,Brecon and Radnorshire,con ld marginal,#2CBDFE,0
+619,W07000069,Neath,lab safe,#661D98,4
+620,W07000070,Cynon Valley,lab safe,#661D98,4
+621,W07000071,Merthyr Tydfil and Rhymney,lab safe,#661D98,4
+622,W07000072,Blaenau Gwent,lab safe,#661D98,4
+623,W07000073,Bridgend,con lab marginal,#661D98,4
+624,W07000074,Ogmore,lab safe,#661D98,4
+625,W07000075,Pontypridd,lab safe,#661D98,4
+626,W07000076,Caerphilly,lab safe,#661D98,4
+627,W07000077,Islwyn,lab safe,#661D98,4
+628,W07000078,Vale of Glamorgan,con lab marginal,#2CBDFE,0
+629,W07000079,Cardiff West,lab safe,#F5B14C,2
+630,W07000080,Cardiff South and Penarth,lab safe,#F5B14C,2
