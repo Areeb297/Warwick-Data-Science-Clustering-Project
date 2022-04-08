@@ -12,7 +12,7 @@ eight_colors <- c('#2CBDFE','#47DBCD',
                   '#ECD4F5', '#F9D094',
                   '#661D98','#F5B14C')
 
-model_data <- readxl::read_excel("Clustering_results_2.xlsx")
+model_data <- readxl::read_excel("Clustering_Results_2.xlsx")
 X_gb_with_snp <- read_csv("X_gb_with_snp.csv")
 
 clusters <- list.files("All Model Results") %>% 
@@ -291,29 +291,6 @@ plot <- test_hac %>%
 animate(plot, nframes = 200, rewind = TRUE)
 
 #### DBScan ####
-
-test_dbscan <- clusters %>% 
-  filter(Model %in% c("model_11","model_42","model_58")) %>% 
-  select(ID:Model,-Colors) %>% 
-  spread(Model, Cluster) %>% 
-  count(model_11,model_42,model_58) %>% 
-  arrange(desc(n)) %>% 
-  group_by(model_17) %>% 
-  mutate(Aux_Order = max(n)) %>% 
-  ungroup %>% 
-  mutate(model_17 = reorder(model_17, Aux_Order))
-
-test_kmeans %>% 
-  ggplot(aes(axis1 = model_35, axis2 = model_03, axis3 = model_17, axis4 = model_49, 
-             y = n)) + 
-  geom_alluvium(aes(fill = model_49)) + 
-  geom_stratum() + 
-  geom_label(stat = "stratum", aes(label = after_stat(stratum))) + 
-  theme_classic() + 
-  theme(legend.position = "none",
-        axis.title.y = element_blank(),
-        axis.ticks.y = element_blank(),
-        axis.text.y = element_blank())
 
 aux_eight_colors <- c("steelblue4",rev(eight_colors))
 aux_eight_colors[4] <- "firebrick"
